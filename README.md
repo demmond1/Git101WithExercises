@@ -11,4 +11,4 @@ git log -p
 
 What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 
-HEAD is usually the tip of a series of commits on a branch or master. 
+HEAD is usually the most recent commit in history for the current branch or master.
